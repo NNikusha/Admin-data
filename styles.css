@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.container {
+    margin: auto;
+    background: #FFFFFF;
+}
+
+.custom-table {
+    border-collapse: collapse;
+    margin: 50px;
+    table-layout: fixed;
+    text-align: left;
+    
+}
+
+h4 {
+    margin: 50px;
+}
+
+.custom-table th,
+.custom-table td {
+    padding: 12px;
+    color: black;
+}
+.custom-table td {
+    border-top: 1px solid #DFDFDF;
+}
+
+.custom-checkbox {
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+.delete {
+    text-align: center; 
+}
+
+.delete-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.image {
+    color: #343A40;
+    text-align: center;
+
+}
+
+.image img {
+    border-radius: 50%;
+    border: 1px solid  #FFF;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.10);
+}
+
+.status {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+td{
+    font-size: 14px;
+    color: #6C757D;
+
+}
+
+.active {
+    background-color: green;
+}
+
+.non-active {
+    background-color: red;
+}
+
+.col-432 {
+    width: 432px;
+}
+
+.col-236 {
+    width: 236px;
+}
+
+.col-203 {
+    width: 203px;
+}
+
+.col-306 {
+    width: 306px;
+}
+
+.col-235 {
+    width: 235px;
+    text-align: center;
+}
+
+.col-115 {
+    width: 115px;
+}
+
